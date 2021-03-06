@@ -14,6 +14,6 @@ New LesGrailleurs Studio game made during game jam bdeb in collab with Lorenzo A
 - Lorenzo Andrés Aguilera Cartes (Modeling and Texture)
 
 # Download link
-https://drive.google.com/file/d/1mWPpOP9qeQ727UhB49_la-VB1qWsA8-O/view?usp=sharing
+- https://drive.google.com/file/d/1mWPpOP9qeQ727UhB49_la-VB1qWsA8-O/view?usp=sharing
 
 - **Alt :** https://survexa.itch.io/blood-shake
